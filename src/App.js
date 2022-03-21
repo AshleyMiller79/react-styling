@@ -1,9 +1,11 @@
+import Inline from "./components/inline-style/Inline";
+
 const App = () => {
   return (
     <>
-      <h1>HELLO REACTERS</h1>
+ <Inline/>
     
-   
+  
     </>
   );
 };
