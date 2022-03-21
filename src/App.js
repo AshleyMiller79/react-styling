@@ -3,7 +3,7 @@ const App = () => {
     <>
       <h1>HELLO REACTERS</h1>
     
-    <p>fvbcv</p>
+   
     </>
   );
 };
