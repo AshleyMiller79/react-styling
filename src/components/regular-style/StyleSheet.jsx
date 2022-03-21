@@ -9,10 +9,7 @@ const StyleSheet = () => {
         alt="clarusway-logo"
       />
       <h1 >Regular-style --- STYLESHEET </h1>
-      <h1   >Regular-style --- STYLESHEET</h1>
- <p>
-        Welcome to Clarusway
-      </p>
+ 
   <p >Welcome to Clarusway</p>
       </div>
   );
