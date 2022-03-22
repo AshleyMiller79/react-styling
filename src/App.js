@@ -11,7 +11,7 @@ const App = () => {
   <Card veri={data}/>
 <ModuleBtn btnStyle="birinci" btnName="Kaydet"/>
 <ModuleBtn btnStyle="ikinci" btnName="Sil"/>
-
+{/* ekrana bastırmak istediğimiz componentler burada, props lar buradan yollanıyor */}
     </>
   );
 };

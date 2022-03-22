@@ -7,7 +7,7 @@ div: {
 backgroundColor:"gray",
 fontSize:"3.2rem"
 }
-
+// üstteki stili yoruma alıp, buraya import {myStyles} from './styles'; şeklinde bir import yaparsak style.jsx deki stilleri burada kullanmış oluruz
 }
 const Inline = () => {
   return (

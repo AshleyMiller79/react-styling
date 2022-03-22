@@ -9,6 +9,7 @@ const ModuleBtn = ({btnStyle, btnName}) => {
     </div>
   )
 }
-
+// module.css uniqe classname'ler ürettiği için normal css de yaşanan çakışmalar yaşanmaz
+// inspect yaparak module css’in oluşturduğu class isimlendirmesini görebilirsiniz bu sayede nasıl unique classlar oluşturduğunu görebilirsiniz
 export default ModuleBtn
 
