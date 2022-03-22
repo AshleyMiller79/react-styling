@@ -5,7 +5,7 @@ const Card = ({veri}) => {
 //  {veri}= bu yazım verinin eşitinde ne varsa o demek yani App.js deki eşiti {data}. {data} nın {data}= bu yazım datanın eşiti demek yani object=dizinin elemanları
   return (
     <div className="container">
-
+https://github.com/clarusway/clarusway-full-stack-10-21/tree/main/react/class-notes
  {/* 
  map yapmadan alttaki gibi yapsaydık her card için aynı satırları yazmak zorunda kalırdık
 <h1>{dataa[0].countries}</h1>
